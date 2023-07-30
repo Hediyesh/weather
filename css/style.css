@@ -1,0 +1,20 @@
+﻿html, body {
+    height: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    direction: ltr;
+}
+
+.body-content {
+    width: inherit;
+}
+
+.aut {
+    text-align: center;
+}
+
+.backcolor {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
